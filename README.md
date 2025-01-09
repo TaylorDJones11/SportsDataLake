@@ -77,3 +77,4 @@ python3 nba_data_lake.py
 - 🚀 Automate Deployment with AWS CloudFormation or Terraform to provision resources easily
 - 🚀 Implement Role-Based Access Control (RBAC) with AWS IAM to restrict access to resources
 - 🚀 Secure API Keys & Credentials using AWS Secrets Manager instead of storing them in .env
+- 🚀 Integrate Machine Learning Models using AWS SageMaker to predict NBA player performance.
